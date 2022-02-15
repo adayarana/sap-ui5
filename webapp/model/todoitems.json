@@ -1,11 +1,15 @@
 {
 	"newTodo": "",
 	"todos": [{
-			"title": "Start this app",
+			"title": "Learn HTML",
 			"completed": true
 		},
 		{
-			"title": "Learn OpenUI5",
+			"title": "Learn CSS",
+			"completed": true
+		},
+		{
+			"title": "Learn JavaScript",
 			"completed": false
 		}
 	],

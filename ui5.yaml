@@ -1,6 +1,6 @@
 specVersion: '2.6'
 metadata:
-  name: invoice-app
+  name: todo-app
 type: application
 framework:
   name: SAPUI5
