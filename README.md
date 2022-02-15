@@ -33,6 +33,6 @@
 
 3. Run app
 
-    ### `cd sap-ui5/todo-app/webapp/`
+    ### `cd sap-ui5/webapp/`
     ### `npm start`
     
