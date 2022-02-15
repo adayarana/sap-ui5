@@ -10,7 +10,7 @@
 <h3 align="left">Frontend Development:</h3>
 <p align="left"> 
 
-<a href="https://sapui5.hana.ondemand.com/#/" target="_blank"> <img src="img/logo_ui5.png" alt="ui5" width="40" height="40"/> </a> 
+<a href="https://sapui5.hana.ondemand.com/#/" target="_blank"> <img src="https://user-images.githubusercontent.com/748043/53291108-59af2b00-37ae-11e9-9490-375304574eeb.png" alt="ui5" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
